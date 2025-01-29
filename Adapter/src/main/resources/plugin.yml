@@ -1,0 +1,7 @@
+name: AAC5-ViaVersion-Adapter
+version: '1.0-SNAPSHOT'
+main: us.myles.ViaVersion.api.Via
+api-version: '1.8'
+author: NubeBuster
+depends: [ViaVersion]
+load: STARTUP
